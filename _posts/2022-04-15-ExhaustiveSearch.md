@@ -83,7 +83,7 @@ use_math: true
 
 이 글은 [삼성 SW Expert Academy](https://swexpertacademy.com/main/learn/course/subjectList.do?courseId=AVuPDN86AAXw5UW6)의 강의 중 중요하다고 생각하는 부분의 요약과 관련 문제의 연습 풀이로 구성되었습니다.
 
-
+<br>
 
 
 # 완전검색 알고리즘
