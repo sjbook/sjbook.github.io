@@ -3,7 +3,7 @@ layout: single
 title : "완전검색알고리즘"
 author_profile: true
 categories: coding_test
-tag: [coding test, baekjoon] 
+tag: [coding test, baekjoon, python] 
 toc: true
 use_math: true
 ---
