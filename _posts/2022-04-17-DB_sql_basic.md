@@ -21,7 +21,7 @@ use_math: true
 
 ## USE 문
 
-```SQL
+```sql
 USE market_db;
 ```
 
@@ -43,7 +43,7 @@ market_db.member(market_db 데이터 베이스의 member 테이블) 와 같이 D
 
 ### SQL
 
-``` SQL
+``` sql
 SELECT height 키, debut_date "데뷔 일자", addr FROM member WHERE mem_name = "블랙핑크";
 ```
 
@@ -79,7 +79,7 @@ WHERE height >= 165 AND mem_number > 6;
 
 위 문장은 다음 문장과 동일하다.
 
-```SQL
+```sql
 WHERE height BETWEEN 163 AND 165;
 ```
 
