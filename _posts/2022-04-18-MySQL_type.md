@@ -151,7 +151,7 @@ PREPARE문으로 ?가 포함된 쿼리를 mySQL에 저장하고, EXECUTE문으�
 
 ```sql
 CAST(값 AS 데이터형식(길이))
-CONVER(값, 데이터형식(길이))
+CONVERT(값, 데이터형식(길이))
 ```
 
 
