@@ -1,11 +1,10 @@
 ---
-title: "look"
+title: "letmesee"
 layout: archive
-permalink: categories/look
+permalink: categories/letmesee
 author_profile: true
 sidebar_main: true
 ---
 
-
-{% assign posts = site.categories.look %}
+{% assign posts = site.categories.letmesee %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
